@@ -72,6 +72,7 @@ namespace sorteio
             {
                 Console.Write("{0,3}", i);
             }
+                Console.WriteLine();
         }
     }
 }
